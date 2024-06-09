@@ -1,24 +1,2 @@
-# my-vue-project
+#THIS PROJECT IS STILL UNDER CONSTRUCTION!! And I'll be updating it as soon as possible.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
